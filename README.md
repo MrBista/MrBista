@@ -54,7 +54,6 @@ I'm a passionate Fullstack Developer at Cartenz Technology Indonesia with a trac
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MrBista&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MrBista&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBista&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
