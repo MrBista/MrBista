@@ -53,7 +53,6 @@ I'm a passionate Fullstack Developer at Cartenz Technology Indonesia with a trac
 ### Version Control & Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=MrBista&theme=dark&hide_border=true)<br/>
