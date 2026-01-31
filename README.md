@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%" align="center">
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
 
 <tr width="100%">
-    <td>
+    <td style="padding: 0;">
 
 ```java
     @Service
@@ -70,7 +70,7 @@
   </td>
 </tr>
 <tr width="100%">
-    <td>
+    <td style="padding: 0;">
 
     ### 🎯 My Craft
 
