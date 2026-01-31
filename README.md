@@ -19,7 +19,7 @@
 <tr width="100%">
     <td>
 
-    ```java
+```java
     @Service
     public class GustiBisman {
 
@@ -65,9 +65,9 @@
             }
         }
     }
-    ```
+```
 
-    </td>
+  </td>
 </tr>
 <tr width="100%">
     <td>
