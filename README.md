@@ -14,43 +14,62 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td>
 
 ```java
 @Service
 public class GustiBisman {
-    
+
     @Value("${location}")
     private String base = "Tangerang Selatan 🇮🇩";
-    
+
     @Value("${role}")
     private String currentRole = "Full Stack Developer";
-    
+
     @Value("${company}")
     private String company = "Cartenz Group";
-    
+
     @Autowired
-    private List<String> superpowers = Arrays.asList(
-        "⚡ 25% faster API responses",
-        "🎯 99% bug elimination rate",
-        "🚀 15+ features shipped on-time",
-        "💾 100k+ rows handled efficiently"
+    private List<String> strengths = Arrays.asList(
+        "Designing APIs that scale gracefully",
+        "Translating complex requirements into clean code",
+        "Debugging production issues with a calm mindset",
+        "Building systems with performance awareness"
     );
-    
+
+    private final Set<String> principles = Set.of(
+        "Clean code over clever code",
+        "Readability is a feature",
+        "Optimize when evidence says so",
+        "Stability beats hype"
+    );
+
+    private boolean readyToShip() {
+        return tests.green() && metrics.lookGood();
+    }
+
     public void workMode() {
         while (coffee.isAvailable()) {
-            code();
-            optimize();
-            deploy();
+            design();
+            implement();
+
+            if (readyToShip()) {
+                refactor();
+                ship();
+            } else {
+                investigate();
+            }
         }
     }
 }
 ```
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td>
 
 ### 🎯 My Craft
 
@@ -158,26 +177,15 @@ public class GustiBisman {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBista&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBista&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBista&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrBista&theme=radical" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBista&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrBista&theme=radical" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBista&theme=radical" alt="Repos per Language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrBista&theme=radical" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBista&theme=radical" alt="Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrBista&theme=radical&utcOffset=7" alt="Productive Time"/>
 </div>
 
 ---
@@ -190,31 +198,7 @@ public class GustiBisman {
 
 ---
 
-## 🏅 Key Achievements
 
-<div align="center">
-
-| Metric | Achievement |
-|--------|------------|
-| 🎯 **System Uptime** | 98% High Availability |
-| 🚀 **Features Delivered** | 15+ On-Time with <2% Revision Rate |
-| ⚡ **Performance Boost** | 25% Reduction in Server Response Time |
-| 🔧 **Bug Fix Rate** | 99% Success Rate |
-| 📡 **APIs Developed** | 20+ RESTful APIs |
-| 💾 **Data Handling** | 100k+ Rows Optimized |
-| 🏆 **Best Graduate** | Hacktiv8 Top Graduate (97.10) |
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrBista&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -315,8 +299,6 @@ Feel free to reach out through any of the platforms above!
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   ---
-  
-  ![Profile Views](https://visitcount.itsvg.in/api?id=MrBista&icon=5&color=3)
   
   **⭐ From [MrBista](https://github.com/MrBista) with 💙**
   
