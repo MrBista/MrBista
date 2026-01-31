@@ -14,84 +14,85 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
-<tr>
-<td>
+<table width="100%" align="center">
 
-```java
-@Service
-public class GustiBisman {
+<tr width="100%">
+    <td>
 
-    @Value("${location}")
-    private String base = "Tangerang Selatan 🇮🇩";
+    ```java
+    @Service
+    public class GustiBisman {
 
-    @Value("${role}")
-    private String currentRole = "Full Stack Developer";
+        @Value("${location}")
+        private String base = "Tangerang Selatan 🇮🇩";
 
-    @Value("${company}")
-    private String company = "Cartenz Group";
+        @Value("${role}")
+        private String currentRole = "Full Stack Developer";
 
-    @Autowired
-    private List<String> strengths = Arrays.asList(
-        "Designing APIs that scale gracefully",
-        "Translating complex requirements into clean code",
-        "Debugging production issues with a calm mindset",
-        "Building systems with performance awareness"
-    );
+        @Value("${company}")
+        private String company = "Cartenz Group";
 
-    private final Set<String> principles = Set.of(
-        "Clean code over clever code",
-        "Readability is a feature",
-        "Optimize when evidence says so",
-        "Stability beats hype"
-    );
+        @Autowired
+        private List<String> strengths = Arrays.asList(
+            "Designing APIs that scale gracefully",
+            "Translating complex requirements into clean code",
+            "Debugging production issues with a calm mindset",
+            "Building systems with performance awareness"
+        );
 
-    private boolean readyToShip() {
-        return tests.green() && metrics.lookGood();
-    }
+        private final Set<String> principles = Set.of(
+            "Clean code over clever code",
+            "Readability is a feature",
+            "Optimize when evidence says so",
+            "Stability beats hype"
+        );
 
-    public void workMode() {
-        while (coffee.isAvailable()) {
-            design();
-            implement();
+        private boolean readyToShip() {
+            return tests.green() && metrics.lookGood();
+        }
 
-            if (readyToShip()) {
-                refactor();
-                ship();
-            } else {
-                investigate();
+        public void workMode() {
+            while (coffee.isAvailable()) {
+                design();
+                implement();
+
+                if (readyToShip()) {
+                    refactor();
+                    ship();
+                } else {
+                    investigate();
+                }
             }
         }
     }
-}
-```
+    ```
 
-</td>
+    </td>
 </tr>
-<tr>
-<td>
+<tr width="100%">
+    <td>
 
-### 🎯 My Craft
+    ### 🎯 My Craft
 
-**Backend Sorcery** 🧙‍♂️
-- Conjuring scalable systems with Spring Boot
-- Taming databases with surgical precision
-- Architecting APIs that never sleep
+    **Backend Sorcery** 🧙‍♂️
+    - Conjuring scalable systems with Spring Boot
+    - Taming databases with surgical precision
+    - Architecting APIs that never sleep
 
-**DevOps Alchemy** 🔮
-- Containerizing apps with Docker magic
-- Orchestrating Linux servers like a symphony
-- Making Nginx dance at 25% faster tempo
+    **DevOps Alchemy** 🔮
+    - Containerizing apps with Docker magic
+    - Orchestrating Linux servers like a symphony
+    - Making Nginx dance at 25% faster tempo
 
-**Problem Solving** 🎪
-- Debugging like Sherlock Holmes
-- Optimizing code like a Formula 1 pit crew
-- Building features with <2% revision rate
+    **Problem Solving** 🎪
+    - Debugging like Sherlock Holmes
+    - Optimizing code like a Formula 1 pit crew
+    - Building features with <2% revision rate
 
-**Current Quest** 🗡️
-> Mastering microservices architecture while keeping 98% uptime alive and kicking!
+    **Current Quest** 🗡️
+    > Mastering microservices architecture while keeping 98% uptime alive and kicking!
 
-</td>
+    </td>
 </tr>
 </table>
 
@@ -183,10 +184,10 @@ public class GustiBisman {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBista&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
-
+<!-- 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrBista&theme=radical" alt="Profile Details"/>
-</div>
+</div> -->
 
 ---
 
