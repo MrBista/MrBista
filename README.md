@@ -139,7 +139,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBista&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats-drab-mu-98.vercel.app/api?username=MrBista&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrBista&theme=radical&utcOffset=7" alt="Productive Time" />
 </div>
 <div align="center">
