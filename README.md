@@ -201,10 +201,14 @@
 
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrBista&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBista&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrBista&theme=radical&utcOffset=7" alt="Productive Time" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrBista&theme=radical" alt="Profile Details" />
 </div>
 
 ---
