@@ -15,51 +15,43 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-
-🏢 **Fullstack Engineer** at **Cartenz Group** · 📍 Tangerang Selatan, Indonesia
-
+  <img src="https://img.shields.io/badge/Role-Fullstack_Engineer-3B82F6?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Company-Cartenz_Group-10B981?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Location-Tangerang_Selatan_🇮🇩-F59E0B?style=for-the-badge&labelColor=0D1117" />
 </div>
 
 <br>
 
-<table>
-<tr>
-<td>
-
-I turn business problems into reliable software. My day-to-day is translating what stakeholders need into systems that just work — fast, stable, and easy to maintain long after I've moved on.
-
-I've built everything from customer-facing APIs to internal tools that keep operations running smoothly. What I care about most is **shipping things that people can depend on** — whether that's a service handling thousands of requests, or a dashboard that loads in under a second.
-
-</td>
-</tr>
-</table>
+> I turn business problems into reliable software. My day-to-day is translating what stakeholders need
+> into systems that just work — fast, stable, and easy to maintain long after I've moved on.
+>
+> I've built everything from customer-facing APIs to internal tools that keep operations running smoothly.
+> What I care about most is **shipping things that people can depend on** — whether that's a service
+> handling thousands of requests, or a dashboard that loads in under a second.
 
 <br>
 
-<table>
-<tr>
-<td width="50%" align="center">
+<details open>
+<summary><b>💼 What I Bring to the Table</b></summary>
+<br>
 
-### 💼 What I Bring to the Table
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;End-to-end ownership — from planning to production<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;A track record of shipping with minimal rework<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;Strong focus on team collaboration and code quality<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;The ability to explain technical trade-offs to anyone
 
-🔹 End-to-end ownership — from planning to production
-🔹 A track record of shipping with minimal rework
-🔹 Strong focus on team collaboration and code quality
-🔹 The ability to explain technical trade-offs to anyone
+</details>
 
-</td>
-<td width="50%" align="center">
+<details open>
+<summary><b>🤝 What It's Like Working With Me</b></summary>
+<br>
 
-### 🤝 What It's Like Working With Me
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;I ask the right questions before writing a single line<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;I document decisions, not just code<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;I build for the team that inherits my work<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;I treat deadlines as commitments, not suggestions
 
-🔸 I ask the right questions before writing a single line
-🔸 I document decisions, not just code
-🔸 I build for the team that inherits my work
-🔸 I treat deadlines as commitments, not suggestions
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
