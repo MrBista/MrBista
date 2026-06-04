@@ -140,13 +140,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-drab-mu-98.vercel.app/api?username=MrBista&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrBista&theme=radical&utcOffset=7" alt="Productive Time" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBista&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrBista&theme=radical" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats-drab-mu-98.vercel.app/api/top-langs/?username=MrBista&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&exclude_repo=github-readme-stats&hide=python" alt="Top Languages" />
 </div>
 <div align="center">
