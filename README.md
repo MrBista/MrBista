@@ -14,85 +14,50 @@
 
 ## 👨‍💻 About Me
 
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+<div align="center">
 
-<tr width="100%">
-    <td style="padding: 0;">
+🏢 **Fullstack Engineer** at **Cartenz Group** · 📍 Tangerang Selatan, Indonesia
 
-```java
-    @Service
-    public class GustiBisman {
+</div>
 
-        @Value("${location}")
-        private String base = "Tangerang Selatan 🇮🇩";
+<br>
 
-        @Value("${role}")
-        private String currentRole = "Full Stack Developer";
+<table>
+<tr>
+<td>
 
-        @Value("${company}")
-        private String company = "Cartenz Group";
+I turn business problems into reliable software. My day-to-day is translating what stakeholders need into systems that just work — fast, stable, and easy to maintain long after I've moved on.
 
-        @Autowired
-        private List<String> strengths = Arrays.asList(
-            "Designing APIs that scale gracefully",
-            "Translating complex requirements into clean code",
-            "Debugging production issues with a calm mindset",
-            "Building systems with performance awareness"
-        );
+I've built everything from customer-facing APIs to internal tools that keep operations running smoothly. What I care about most is **shipping things that people can depend on** — whether that's a service handling thousands of requests, or a dashboard that loads in under a second.
 
-        private final Set<String> principles = Set.of(
-            "Clean code over clever code",
-            "Readability is a feature",
-            "Optimize when evidence says so",
-            "Stability beats hype"
-        );
-
-        private boolean readyToShip() {
-            return tests.green() && metrics.lookGood();
-        }
-
-        public void workMode() {
-            while (coffee.isAvailable()) {
-                design();
-                implement();
-
-                if (readyToShip()) {
-                    refactor();
-                    ship();
-                } else {
-                    investigate();
-                }
-            }
-        }
-    }
-```
-
-  </td>
+</td>
 </tr>
-<tr width="100%">
-    <td style="padding: 0;">
+</table>
 
-    ### 🎯 My Craft
+<br>
 
-    **Backend Sorcery** 🧙‍♂️
-    - Conjuring scalable systems with Spring Boot
-    - Taming databases with surgical precision
-    - Architecting APIs that never sleep
+<table>
+<tr>
+<td width="50%" align="center">
 
-    **DevOps Alchemy** 🔮
-    - Containerizing apps with Docker magic
-    - Orchestrating Linux servers like a symphony
-    - Making Nginx dance at 25% faster tempo
+### 💼 What I Bring to the Table
 
-    **Problem Solving** 🎪
-    - Debugging like Sherlock Holmes
-    - Optimizing code like a Formula 1 pit crew
-    - Building features with <2% revision rate
+🔹 End-to-end ownership — from planning to production
+🔹 A track record of shipping with minimal rework
+🔹 Strong focus on team collaboration and code quality
+🔹 The ability to explain technical trade-offs to anyone
 
-    **Current Quest** 🗡️
-    > Mastering microservices architecture while keeping 98% uptime alive and kicking!
+</td>
+<td width="50%" align="center">
 
-    </td>
+### 🤝 What It's Like Working With Me
+
+🔸 I ask the right questions before writing a single line
+🔸 I document decisions, not just code
+🔸 I build for the team that inherits my work
+🔸 I treat deadlines as commitments, not suggestions
+
+</td>
 </tr>
 </table>
 
