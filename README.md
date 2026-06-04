@@ -135,16 +135,22 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBista&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrBista&theme=radical&utcOffset=7" alt="Productive Time" />
+</div>
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrBista&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrBista&theme=radical" />
 </div>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBista&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&bg_color=141321" alt="Top Languages" />
+</div>
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=MrBista&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
-<!-- 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrBista&theme=radical" alt="Profile Details"/>
-</div> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrBista&theme=radical" alt="Profile Details" />
+</div>
 
 ---
 
@@ -156,24 +162,10 @@
 
 ---
 
-
-
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MrBista/MrBista/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🏆 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrBista&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrBista&theme=radical&utcOffset=7" alt="Productive Time" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrBista&theme=radical" alt="Profile Details" />
 </div>
 
 ---
