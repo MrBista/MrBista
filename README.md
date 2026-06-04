@@ -237,11 +237,11 @@ graph LR
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBista/MrBista/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrBista/MrBista/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/MrBista/MrBista/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MrBista/MrBista/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> **Note:** Snake animation requires GitHub Actions. If not visible, check [Actions billing](https://github.com/settings/billing/actions) or run the workflow manually from the Actions tab.
 
 ---
 
