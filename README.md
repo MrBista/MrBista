@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrBista&label=Profile+Views&color=F85D7F&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusti-bisman/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustibisman2308@gmail.com)
@@ -143,7 +147,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrBista&theme=radical" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBista&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&bg_color=141321" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBista&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MrBista&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
