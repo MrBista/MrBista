@@ -201,6 +201,14 @@
 
 
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MrBista/MrBista/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 🏆 GitHub Stats
 
 <div align="center">
@@ -232,15 +240,6 @@ graph LR
 - 🏗️ Microservices architecture and API design
 - ☁️ Cloud-native application development
 - 🔐 Security hardening and authentication systems
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MrBista/MrBista/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 
 ---
 
