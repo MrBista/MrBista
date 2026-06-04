@@ -147,7 +147,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrBista&theme=radical" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-drab-mu-98.vercel.app/api/top-langs/?username=MrBista&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-drab-mu-98.vercel.app/api/top-langs/?username=MrBista&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&v=2" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MrBista&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
