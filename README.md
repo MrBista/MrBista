@@ -139,7 +139,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrBista&theme=radical" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBista&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MrBista&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
 <!-- 
 <div align="center">
